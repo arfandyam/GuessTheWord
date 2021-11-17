@@ -75,5 +75,4 @@ class GameViewModel : ViewModel() {
         Log.i("GameViewModel", "GameViewModel destroyed!")
     }
 
-
 }
